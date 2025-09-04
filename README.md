@@ -19,9 +19,11 @@ Nos meus tempos livres, _gosto de ler, jogar e explorar novos conhecimentos na i
 
 Abaixo está um exemplo clássico de "Olá, Mundo!" em linguagem C, utilizando a função `printf` para exibir a mensagem na tela.
 
-```#include <stdio.h>
+```
+#include <stdio.h>
 
 int main() {
     printf("Olá, Mundo!\n");
     return 0;
-} ```
+} 
+```
